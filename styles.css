@@ -101,18 +101,18 @@ button {
         left: 25px;
     }
     .container .Viewer {
-        top: 48px;
+        top: 105px;
         left: 60px;
         font-size: 19px;
     }
     input[type=text] {
-        top: 280px;
+        top: 480px;
         left: 20px;
         width: calc(100% - 40px);
         height: 35px;
     }
     .input-username .btn {
-        top: 105px;
+        top: 820px;
         left: calc(50% - 50px);
     }
 }
