@@ -93,26 +93,26 @@ button {
     .container p {
         font-size: 32px;
         left: 22px;
-        top: 100px;
+        top: 80px;
     }
     .container img {
-        width: 24px;
+        width: 29px;
         top: 50px;
         left: 25px;
     }
     .container .Viewer {
-        top: 105px;
+        top: 65px;
         left: 60px;
         font-size: 19px;
     }
     input[type=text] {
-        top: 480px;
+        top: 390px;
         left: 20px;
         width: calc(100% - 40px);
         height: 35px;
     }
     .input-username .btn {
-        top: 820px;
+        top: 520px;
         left: calc(50% - 50px);
     }
 }
@@ -184,3 +184,4 @@ button {
 @media (min-width: 1200px) {
     /* Adjust styles for large desktops */
 }
+
