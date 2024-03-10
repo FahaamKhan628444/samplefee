@@ -91,19 +91,19 @@ button {
 /* For screens smaller than 576px (e.g., phones) */
 @media (max-width: 575.98px) {
     .container p {
-        font-size: 20px;
-        left: 20px;
-        top: 80px;
+        font-size: 32px;
+        left: 22px;
+        top: 100px;
     }
     .container img {
-        width: 20px;
+        width: 24px;
         top: 50px;
         left: 25px;
     }
     .container .Viewer {
         top: 48px;
         left: 60px;
-        font-size: 14px;
+        font-size: 19px;
     }
     input[type=text] {
         top: 280px;
@@ -112,7 +112,7 @@ button {
         height: 35px;
     }
     .input-username .btn {
-        top: 82px;
+        top: 105px;
         left: calc(50% - 50px);
     }
 }
